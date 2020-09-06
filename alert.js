@@ -1,9 +1,25 @@
-let age = prompt ("what is your age?");
+let youtuber = {
+    list:{
+      business: {
+        youtuber: [
+          { name: "S", age: 20, teachProgramming() {} },
+          { name: "A", age: 37, teachHistory() {} },
+        ],
+        teach(){}
+      },
+      entertainment: {
+        youtuber: [{ name: "Hikakin"}, { name: "Hajime"}],
+        makeSmile(){}   
+     }
+    },
+    plan(){},
+    uploadVideo(){}
+};
 
-function checkAge(age) {
-    if (age > 18) {
-      return true;
-    } 
-      return confirm('Did parents allow you?');
-    
-  }
+  window.console.log();
+
+  window.alert();
+  
+  window.document.getElementById
+  
+  window.document.
